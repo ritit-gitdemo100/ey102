@@ -8,6 +8,6 @@ public class DemoController {
 
 	@GetMapping
 	public String home() {
-		return "Welcome Spring Home";
+		return "Welcome Spring Home Page";
 	}
 }
